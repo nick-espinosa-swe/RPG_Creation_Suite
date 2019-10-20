@@ -9,6 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 git clone https://username@bitbucket.org/teamsinspace/documentation-tests.git
 vi CONTRIBUTORS.md
+```
+Add your name and github account
+```
 git status
 git commit .
 ```
@@ -26,13 +29,9 @@ Include Specs Here
 
 * Back End: [NodeJS](https://nodejs.org/en/download/)(version number)
 
-```
-Give examples
-```
-
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+TDB: A step by step series of examples that tell you how to get a development env running
 
 Say what the steps will be
 ```
@@ -43,7 +42,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+TBD: Notes on how to deploy this on a live system
 
 ## Contributing
 
