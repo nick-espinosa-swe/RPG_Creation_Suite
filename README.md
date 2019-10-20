@@ -14,7 +14,6 @@ Include Specs Here
 ## Built With
 * IDE: [Visual Studio Code](https://code.visualstudio.com/download) (version number)
 
-
 * Front End: [Vue](https://vuejs.org/v2/guide/installation.html) (2.6.10) and [NodeJS](https://nodejs.org/en/download/)
 
 * Database: [Postgres](https://www.postgresql.org/download/) (version number)
@@ -51,7 +50,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Austin Fruithandler** - *Initial work* - [afruithandler](https://github.com/afruithandler)
 * **Nick Espinosa** - *Initial work* - [NikoCodesThings](https://github.com/NikoCodesThings)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/NikoCodesThings/RPG_Creation_Suite/contributors) who participated in this project.
 
 ## License
 
